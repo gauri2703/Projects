@@ -1,0 +1,11 @@
+[Mon Nov 20 15:20:57 2023] Train 0 is approaching the junction with priority 1.
+[Mon Nov 20 15:20:57 2023] Train 1 is approaching the junction with priority 0.
+[Mon Nov 20 15:20:57 2023] Train 2 is approaching the junction with priority 1.
+[Mon Nov 20 15:21:00 2023] Train 0 has arrived at the junction.
+[Mon Nov 20 15:21:00 2023] Train 2 has arrived at the junction.
+[Mon Nov 20 15:21:00 2023] Train 1 has arrived at the junction.
+[Mon Nov 20 15:21:00 2023] Train 1 is passing through tracks.
+[Mon Nov 20 15:21:04 2023] Potential deadlock detected for Train 2. Releasing acquired locks.
+[Mon Nov 20 15:21:04 2023] Potential deadlock detected for Train 0. Releasing acquired locks.
+[Mon Nov 20 15:21:04 2023] Train 1 has passed tracks.
+[Mon Nov 20 15:21:04 2023] Train 1 has left the junction.
